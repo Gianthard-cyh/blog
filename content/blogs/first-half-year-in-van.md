@@ -24,11 +24,11 @@ description: 一些沉睡的记忆
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":41,"width":609,"height":347,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="http://218.244.136.124:8085/wp-content/uploads/2021/01/image-1024x585.png" alt="" class="wp-image-41"/></figure>
+<figure class="wp-block-image size-large is-resized"><img src="/imgs/image-1024x585.png" alt="" class="wp-image-41"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":43,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="http://218.244.136.124:8085/wp-content/uploads/2021/01/image-1-1024x473.png" alt="" class="wp-image-43"/><figcaption class="wp-element-caption">烫金的PCB尺</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="/imgs/image-1-1024x473.png" alt="" class="wp-image-43"/><figcaption class="wp-element-caption">烫金的PCB尺</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -136,11 +136,11 @@ description: 一些沉睡的记忆
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":101,"width":611,"height":964,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="http://218.244.136.124:8085/wp-content/uploads/2021/01/image-3.png" alt="" class="wp-image-101" width="611" height="964"/><figcaption class="wp-element-caption">完美复刻版</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img src="/imgs/image-3.png" alt="" class="wp-image-101" width="611" height="964"/><figcaption class="wp-element-caption">完美复刻版</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":100,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="http://218.244.136.124:8085/wp-content/uploads/2021/01/image-2.png" alt="" class="wp-image-100"/></figure>
+<figure class="wp-block-image size-large"><img src="/imgs/image-2.png" alt="" class="wp-image-100"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -182,7 +182,7 @@ description: 一些沉睡的记忆
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":103,"width":611,"height":413,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="http://218.244.136.124:8085/wp-content/uploads/2021/01/image-4.png" alt="" class="wp-image-103" width="611" height="413"/><figcaption class="wp-element-caption">trm的祝福</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img src="/imgs/image-4.png" alt="" class="wp-image-103" width="611" height="413"/><figcaption class="wp-element-caption">trm的祝福</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
