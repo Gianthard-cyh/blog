@@ -14,8 +14,6 @@
 </template>
 
 <script setup lang="ts">
-var title = ref("Title")
-var summary = ref("lorem ipsum")
 </script>
 
 <style scoped></style>
